@@ -1,0 +1,14 @@
+{
+    "workbench.startupEditor": "none",
+    "python.defaultInterpreterPath": "python",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.50.139": "linux",
+        "192.168.50.158": "linux",
+        "arteemusica.mus.br": "linux"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false
+}

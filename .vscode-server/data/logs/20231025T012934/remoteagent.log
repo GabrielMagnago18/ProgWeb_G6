@@ -1,0 +1,25 @@
+2023-10-25 01:29:34.858 [info] 
+
+
+
+
+2023-10-25 01:29:34.858 [info] Extension host agent started.
+2023-10-25 01:29:34.878 [info] Started initializing default profile extensions in extensions installation folder. file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions
+2023-10-25 01:29:34.927 [info] Completed initializing default profile extensions in extensions installation folder. file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions
+2023-10-25 01:29:35.588 [info] [127.0.0.1][6500a244][ManagementConnection] New connection established.
+2023-10-25 01:29:35.953 [info] [127.0.0.1][68b5d667][ExtensionHostConnection] New connection established.
+2023-10-25 01:29:36.226 [info] [127.0.0.1][68b5d667][ExtensionHostConnection] <22295> Launched Extension Host Process.
+2023-10-25 01:29:59.642 [info] [127.0.0.1][6500a244][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 01:29:59.766 [info] [127.0.0.1][68b5d667][ExtensionHostConnection] <22295> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 01:29:59.767 [info] Cancelling previous shutdown timeout
+2023-10-25 01:29:59.767 [info] Last EH closed, waiting before shutting down
+2023-10-25 01:30:12.913 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-25 01:30:12.913 [info] Cancelling previous shutdown timeout
+2023-10-25 01:30:13.820 [info] [127.0.0.1][e326ddb7][ManagementConnection] New connection established.
+2023-10-25 01:30:14.215 [info] [127.0.0.1][38b6df57][ExtensionHostConnection] New connection established.
+2023-10-25 01:30:14.222 [info] [127.0.0.1][38b6df57][ExtensionHostConnection] <22599> Launched Extension Host Process.
+2023-10-25 01:35:12.945 [info] New EH opened, aborting shutdown
+2023-10-25 01:46:34.690 [info] [127.0.0.1][e326ddb7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-25 01:46:34.961 [info] [127.0.0.1][38b6df57][ExtensionHostConnection] <22599> Extension Host Process exited with code: 0, signal: null.
+2023-10-25 01:46:34.962 [info] Last EH closed, waiting before shutting down
+2023-10-25 01:51:34.964 [info] Last EH closed, shutting down
