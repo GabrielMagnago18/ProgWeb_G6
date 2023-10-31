@@ -65,3 +65,8 @@ git push ProgWeb_G6 Vinicius
 git remote set-url origin https://github.com/GabrielMagnago18/ProgWeb_G6.git
 git remote set-url ProgWeb_G6 https://github.com/GabrielMagnago18/ProgWeb_G6.git
 git push ProgWeb_G6 Vinicius
+ls
+git add .
+git commit -m "Testando conexão com db"
+git push origin Vinicius
+git push ProgWeb_G6 Vinicius
