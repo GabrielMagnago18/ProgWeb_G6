@@ -32,10 +32,10 @@ class Database extends Config
      */
     public $default = [
         'DSN'      => '',
-        'hostname' => 'server01',
-        'username' => 'c2adsgrupo06',
-        'password' => 'mysqladsgrupo06',
-        'database' => 'c2adsgrupo06',
+        'hostname' => 'localhost',
+        'username' => 'root',
+        'password' => 'vinicius',
+        'database' => 'test_Projeto_Hermes',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,

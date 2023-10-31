@@ -41,3 +41,27 @@ exit
 ls
 cd CodeIgniter
 ls
+git status
+git branch
+git init
+git remote add ProgWeb_G6 git@github.com:GabrielMagnago18/ProgWeb_G6.git
+git remote -v
+git branch Vinicius
+git branch
+git checkout -b nome-da-nova-branch
+git checkout
+git checkout -b Vinicius
+git branch
+git add .
+git commit "Meu commit pelo ssh"
+git commit -m "Meu commit pelo ssh"
+git config user.name "ViniFontes73"
+git config user.email "viniciusfontesads@gmail.com"
+git commit -m "Meu commit pelo ssh"
+git push origin Vinicius
+git status
+git remote -v
+git push ProgWeb_G6 Vinicius
+git remote set-url origin https://github.com/GabrielMagnago18/ProgWeb_G6.git
+git remote set-url ProgWeb_G6 https://github.com/GabrielMagnago18/ProgWeb_G6.git
+git push ProgWeb_G6 Vinicius
