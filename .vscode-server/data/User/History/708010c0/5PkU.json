@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Dracula Soft",
+    "files.autoSave": "afterDelay",
+    "maven.executable.path": "D:\\Programming\\apache-maven-3.9.4\\bin\\mvn",
+    "remote.SSH.remotePlatform": {
+        "arteemusica.mus.br": "linux"
+    }
+}

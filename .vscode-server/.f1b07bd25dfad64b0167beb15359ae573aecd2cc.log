@@ -5,17 +5,36 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:42311 (IPv4)
-Extension host agent listening on 42311
+Server bound to 127.0.0.1:43051 (IPv4)
+Extension host agent listening on 43051
 
-[11:35:46] 
-
-
+[14:35:06] 
 
 
-[11:35:46] Extension host agent started.
-[11:35:47] [127.0.0.1][611770f8][ManagementConnection] New connection established.
-[11:35:48] [127.0.0.1][5e767829][ExtensionHostConnection] New connection established.
-[11:35:48] [127.0.0.1][5e767829][ExtensionHostConnection] <5656> Launched Extension Host Process.
+
+
+[14:35:06] Extension host agent started.
+[14:35:07] [127.0.0.1][774afb64][ManagementConnection] New connection established.
+[14:35:08] [127.0.0.1][e9135329][ExtensionHostConnection] New connection established.
+[14:35:08] [127.0.0.1][e9135329][ExtensionHostConnection] <15977> Launched Extension Host Process.
+[14:35:27] [127.0.0.1][774afb64][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:35:27] [127.0.0.1][e9135329][ExtensionHostConnection] <15977> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[14:35:27] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[14:35:27] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[14:35:48] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[14:35:48] Cancelling previous shutdown timeout
+[14:35:49] [127.0.0.1][edf51ce1][ManagementConnection] New connection established.
+[14:35:49] [127.0.0.1][34731ef9][ExtensionHostConnection] New connection established.
+[14:35:49] [127.0.0.1][34731ef9][ExtensionHostConnection] <16107> Launched Extension Host Process.
 New EH opened, aborting shutdown
-[11:40:47] New EH opened, aborting shutdown
+[14:40:48] New EH opened, aborting shutdown
+[14:41:29] [127.0.0.1][edf51ce1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:41:29] [127.0.0.1][34731ef9][ExtensionHostConnection] <16107> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[14:41:29] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[14:46:29] Last EH closed, shutting down

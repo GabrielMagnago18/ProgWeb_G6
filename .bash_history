@@ -70,3 +70,7 @@ git add .
 git commit -m "Testando conexão com db"
 git push origin Vinicius
 git push ProgWeb_G6 Vinicius
+ls
+git commit -m "Adicionado model"
+git add .
+git commit -m "Adicionado model"
