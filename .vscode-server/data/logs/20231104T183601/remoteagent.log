@@ -1,0 +1,33 @@
+2023-11-04 18:36:01.809 [info] 
+
+
+
+
+2023-11-04 18:36:01.838 [info] Extension host agent started.
+2023-11-04 18:36:02.564 [info] [127.0.0.1][a7e1ce8e][ManagementConnection] New connection established.
+2023-11-04 18:36:02.932 [info] [127.0.0.1][83b1159d][ExtensionHostConnection] New connection established.
+2023-11-04 18:36:03.243 [info] [127.0.0.1][83b1159d][ExtensionHostConnection] <987> Launched Extension Host Process.
+2023-11-04 18:36:09.429 [info] [127.0.0.1][a7e1ce8e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-04 18:36:09.459 [info] [127.0.0.1][83b1159d][ExtensionHostConnection] <987> Extension Host Process exited with code: 0, signal: null.
+2023-11-04 18:36:09.459 [info] Cancelling previous shutdown timeout
+2023-11-04 18:36:09.460 [info] Last EH closed, waiting before shutting down
+2023-11-04 18:36:27.537 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-04 18:36:27.537 [info] Cancelling previous shutdown timeout
+2023-11-04 18:36:28.438 [info] [127.0.0.1][90f399d1][ManagementConnection] New connection established.
+2023-11-04 18:36:28.843 [info] [127.0.0.1][f64f3da1][ExtensionHostConnection] New connection established.
+2023-11-04 18:36:28.859 [info] [127.0.0.1][f64f3da1][ExtensionHostConnection] <1145> Launched Extension Host Process.
+2023-11-04 18:41:27.543 [info] New EH opened, aborting shutdown
+2023-11-04 18:44:34.841 [info] Getting Manifest... small.php-ci
+2023-11-04 18:44:34.920 [info] Installing extension: small.php-ci
+2023-11-04 18:44:36.057 [warning] Extension signature verification failed with error 'ENOENT': small.php-ci
+2023-11-04 18:44:36.370 [info] Extracted extension to file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/small.php-ci-0.4.2: small.php-ci
+2023-11-04 18:44:36.490 [info] Renamed to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/small.php-ci-0.4.2
+2023-11-04 18:44:36.493 [info] Extracting extension completed. small.php-ci
+2023-11-04 18:44:36.507 [info] Extension installed successfully: small.php-ci
+2023-11-04 18:44:49.752 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2023-11-04 18:44:49.788 [info] Installing extension: bmewburn.vscode-intelephense-client
+2023-11-04 18:44:50.915 [warning] Extension signature verification failed with error 'ENOENT': bmewburn.vscode-intelephense-client
+2023-11-04 18:44:52.224 [info] Extracted extension to file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5: bmewburn.vscode-intelephense-client
+2023-11-04 18:44:52.241 [info] Renamed to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5
+2023-11-04 18:44:52.244 [info] Extracting extension completed. bmewburn.vscode-intelephense-client
+2023-11-04 18:44:52.252 [info] Extension installed successfully: bmewburn.vscode-intelephense-client

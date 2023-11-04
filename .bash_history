@@ -74,3 +74,12 @@ ls
 git commit -m "Adicionado model"
 git add .
 git commit -m "Adicionado model"
+ls
+git add .
+git commit -m "testando a view"
+git push ProgWeb_G6 Vinicius
+pwd
+git add .
+git commit -m "TÁ GRAVANDO NO BANCOOOO"
+git push ProgWeb_G6 Vinicius
+exit
