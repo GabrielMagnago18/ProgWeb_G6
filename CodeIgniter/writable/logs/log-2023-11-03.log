@@ -1,0 +1,68 @@
+CRITICAL - 2023-11-03 20:14:32 --> Invalid file: sala_form.php
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sala_form.php')
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('sala_form', Array, true)
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(39): view('sala_form', Array)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 20:18:04 --> Invalid file: sala_form.php
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sala_form.php')
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('sala_form', Array, true)
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(39): view('sala_form', Array)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 20:18:22 --> Invalid file: sala_form.php
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sala_form.php')
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('sala_form', Array, true)
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(39): view('sala_form', Array)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 20:21:06 --> Invalid file: sala_form.php
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('sala_form.php')
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('sala_form', Array, true)
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(39): view('sala_form', Array)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-11-03 20:21:43 --> Undefined variable: msg
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_form.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 11, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_form', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(39): view('salas_form', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-11-03 20:24:13 --> Column 'Datashow' cannot be null
+CRITICAL - 2023-11-03 20:24:13 --> Column 'Datashow' cannot be null
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Database/MySQLi/Connection.php(292): mysqli->query('INSERT INTO `Sa...', 0)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Sa...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Sa...')
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Database/BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Sa...', Array, false)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(30): CodeIgniter\Model->insert()
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#9 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#10 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-11-03 20:28:41 --> Class 'App\Models\SalaModel' not found
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->inserir()
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

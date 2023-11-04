@@ -290,3 +290,7 @@
 2023-11-04 00:36:09.752 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1219
 2023-11-04 00:36:14.832 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1219
 2023-11-04 00:36:20.007 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1219
+2023-11-04 00:36:25.172 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1219
+2023-11-04 00:36:30.293 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1217
+2023-11-04 00:36:35.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1217
+2023-11-04 01:21:05.126 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
