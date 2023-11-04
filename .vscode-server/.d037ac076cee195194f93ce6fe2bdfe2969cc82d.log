@@ -46,3 +46,16 @@ New EH opened, aborting shutdown
 [18:44:52] Renamed to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5
 [18:44:52] Extracting extension completed. bmewburn.vscode-intelephense-client
 [18:44:52] Extension installed successfully: bmewburn.vscode-intelephense-client
+[20:28:24] [127.0.0.1][90f399d1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:28:24] [127.0.0.1][f64f3da1][ExtensionHostConnection] <1145> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[20:28:24] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[20:28:57] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[20:28:57] Cancelling previous shutdown timeout
+[20:28:58] [127.0.0.1][28d36e64][ManagementConnection] New connection established.
+[20:28:58] [127.0.0.1][6bce4e60][ExtensionHostConnection] New connection established.
+[20:28:58] [127.0.0.1][6bce4e60][ExtensionHostConnection] <12241> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[20:33:57] New EH opened, aborting shutdown

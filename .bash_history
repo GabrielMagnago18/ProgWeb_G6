@@ -83,3 +83,6 @@ git add .
 git commit -m "TÁ GRAVANDO NO BANCOOOO"
 git push ProgWeb_G6 Vinicius
 exit
+git add .
+git commit -m "Página com Exibir rodando"
+git push ProgWeb_G6 Vinicius

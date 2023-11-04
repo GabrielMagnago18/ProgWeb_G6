@@ -1,0 +1,33 @@
+CRITICAL - 2023-11-04 14:37:49 --> Undefined variable: sala
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_editar_selecionada.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 11, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_editar_se...', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/SalasEditarSelecionada.php(22): view('salas_editar_se...', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\SalasEditarSelecionada->editar()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalasEditarSelecionada))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-04 14:38:49 --> Undefined variable: sala
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_editar_selecionada.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 11, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_editar_se...', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/SalasEditarSelecionada.php(22): view('salas_editar_se...', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\SalasEditarSelecionada->editar()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalasEditarSelecionada))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-04 15:09:36 --> Undefined variable: sala
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_editar_selecionada.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 11, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_editar_se...', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/SalasEditarSelecionada.php(22): view('salas_editar_se...', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\SalasEditarSelecionada->editar()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalasEditarSelecionada))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

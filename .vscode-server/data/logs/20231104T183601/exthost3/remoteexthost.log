@@ -1,0 +1,12 @@
+2023-11-04 20:29:01.601 [info] Extension host with pid 12241 started
+2023-11-04 20:29:01.609 [info] Lock '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/vscode.lock': Lock acquired.
+2023-11-04 20:29:02.500 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-04 20:29:02.502 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-11-04 20:29:02.506 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-11-04 20:29:02.506 [info] ExtensionService#_doActivateExtension small.php-ci, startup: false, activationEvent: 'onLanguage:php'
+2023-11-04 20:29:03.082 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-04 20:29:03.440 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-04 20:29:03.441 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-04 20:29:04.931 [info] Eager extensions activated
+2023-11-04 20:29:04.933 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-04 20:29:04.938 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
