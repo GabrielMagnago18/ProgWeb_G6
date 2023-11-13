@@ -86,3 +86,6 @@ exit
 git add .
 git commit -m "Página com Exibir rodando"
 git push ProgWeb_G6 Vinicius
+git add .
+git commit -m "Página com Escolha de sala certo mas sem salvar alterações"
+git push ProgWeb_G6 Vinicius

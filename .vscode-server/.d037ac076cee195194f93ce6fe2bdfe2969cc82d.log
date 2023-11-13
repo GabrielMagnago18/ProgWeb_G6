@@ -59,3 +59,9 @@ Cancelling previous shutdown timeout
 [20:28:58] [127.0.0.1][6bce4e60][ExtensionHostConnection] <12241> Launched Extension Host Process.
 New EH opened, aborting shutdown
 [20:33:57] New EH opened, aborting shutdown
+[21:06:36] [127.0.0.1][28d36e64][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:06:36] [127.0.0.1][6bce4e60][ExtensionHostConnection] <12241> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:06:36] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[21:11:36] Last EH closed, shutting down

@@ -1,0 +1,42 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:43723 (IPv4)
+Extension host agent listening on 43723
+
+[19:15:18] 
+
+
+
+
+[19:15:18] Extension host agent started.
+[19:15:19] [127.0.0.1][e9470217][ManagementConnection] New connection established.
+[19:15:20] [127.0.0.1][2463266b][ExtensionHostConnection] New connection established.
+[19:15:20] [127.0.0.1][2463266b][ExtensionHostConnection] <9427> Launched Extension Host Process.
+[19:15:27] [127.0.0.1][e9470217][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:15:27] [127.0.0.1][2463266b][ExtensionHostConnection] <9427> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[19:15:27] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[19:15:27] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:15:46] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:15:46] Cancelling previous shutdown timeout
+[19:15:47] [127.0.0.1][7b2b02ac][ManagementConnection] New connection established.
+[19:15:47] [127.0.0.1][9c0796bf][ExtensionHostConnection] New connection established.
+[19:15:47] [127.0.0.1][9c0796bf][ExtensionHostConnection] <9570> Launched Extension Host Process.
+[19:15:53] Getting Manifest... bmewburn.vscode-intelephense-client
+[19:15:53] Installing extension: bmewburn.vscode-intelephense-client
+[19:15:55] Extension signature verification failed with error 'ENOENT': bmewburn.vscode-intelephense-client
+[19:16:00] Extracted extension to file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1: bmewburn.vscode-intelephense-client
+[19:16:00] Renamed to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1
+[19:16:00] Extracting extension completed. bmewburn.vscode-intelephense-client
+[19:16:00] Extension installed successfully: bmewburn.vscode-intelephense-client
+[19:16:00] Marked extension as uninstalled bmewburn.vscode-intelephense-client-1.9.5
+New EH opened, aborting shutdown
+[19:20:46] New EH opened, aborting shutdown
