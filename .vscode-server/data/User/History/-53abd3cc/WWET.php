@@ -45,7 +45,7 @@
                 <div class="overflow-x-auto sm:mx-0.5 lg:mx-0.5">
                     <div class="py-2 inline-block min-w-full sm:px-6 lg:px-8">
                         <div class="overflow-hidden">
-                            <table class="min-w-full">
+                            <table class="class="table-auto lg:table-fixed md:table-fixed sm:table-fixed"">
                                 <thead class="bg-white border-b">
                                     <tr>
                                         <th class="text-sm font-medium text-gray-900 px-4 py-2 text-left">Nome da Sala</th>
