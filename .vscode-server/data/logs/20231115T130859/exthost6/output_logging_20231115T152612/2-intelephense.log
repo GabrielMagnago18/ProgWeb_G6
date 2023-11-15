@@ -1,0 +1,89 @@
+[Info  - 3:26:18 PM] Initialising intelephense 1.10.1
+[Info  - 3:26:18 PM] Initialised in 304 ms
+[Info  - 3:26:18 PM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 3:26:19 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 3:26:20 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06 for files to index.
+[Warn  - 3:26:20 PM] file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/ProgWeb_g6.erro/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 3:26:20 PM] Indexing started.
+[Info  - 3:26:20 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 3:26:44 PM] Indexing ended. 3143 files indexed in 23s.
+[Info  - 3:26:44 PM] Writing state to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 3:26:47 PM] Wrote state in 3.6s.
+[Info  - 3:27:18 PM] Indexing started.
+[Info  - 3:27:18 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:28:20 PM] Indexing started.
+[Info  - 3:28:20 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:28:59 PM] Indexing started.
+[Info  - 3:28:59 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:29:14 PM] Indexing started.
+[Info  - 3:29:14 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:29:55 PM] Indexing started.
+[Info  - 3:29:56 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:30:23 PM] Indexing started.
+[Info  - 3:30:23 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:30:33 PM] Indexing started.
+[Info  - 3:30:33 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:30:45 PM] Indexing started.
+[Info  - 3:30:46 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:31:06 PM] Indexing started.
+[Info  - 3:31:06 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:31:17 PM] Indexing started.
+[Info  - 3:31:17 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:31:39 PM] Indexing started.
+[Info  - 3:31:39 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:31:57 PM] Indexing started.
+[Info  - 3:31:57 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:32:36 PM] Indexing started.
+[Info  - 3:32:36 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:34:01 PM] Indexing started.
+[Info  - 3:34:01 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:35:22 PM] Indexing started.
+[Info  - 3:35:23 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:35:43 PM] Indexing started.
+[Info  - 3:35:43 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:36:05 PM] Indexing started.
+[Info  - 3:36:05 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:37:32 PM] Indexing started.
+[Info  - 3:37:32 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:37:55 PM] Indexing started.
+[Info  - 3:37:55 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:37:59 PM] Indexing started.
+[Info  - 3:38:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:38:03 PM] Indexing started.
+[Info  - 3:38:04 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:38:33 PM] Indexing started.
+[Info  - 3:38:34 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:38:47 PM] Indexing started.
+[Info  - 3:38:47 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:38:57 PM] Indexing started.
+[Info  - 3:38:57 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:40:09 PM] Indexing started.
+[Info  - 3:40:10 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:40:39 PM] Indexing started.
+[Info  - 3:40:39 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:40:48 PM] Indexing started.
+[Info  - 3:40:48 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:42:14 PM] Indexing started.
+[Info  - 3:42:14 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:42:49 PM] Indexing started.
+[Info  - 3:42:50 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:43:04 PM] Indexing started.
+[Info  - 3:43:05 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:43:15 PM] Indexing started.
+[Info  - 3:43:15 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:45:25 PM] Indexing started.
+[Info  - 3:45:25 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:45:37 PM] Indexing started.
+[Info  - 3:45:37 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:45:50 PM] Indexing started.
+[Info  - 3:45:50 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:46:00 PM] Indexing started.
+[Info  - 3:46:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:47:45 PM] Indexing started.
+[Info  - 3:47:45 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:48:13 PM] Indexing started.
+[Info  - 3:48:13 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:07:05 PM] Indexing started.
+[Info  - 4:07:06 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:07:37 PM] Indexing started.
+[Info  - 4:07:37 PM] Indexing ended. 1 files indexed in 0s.

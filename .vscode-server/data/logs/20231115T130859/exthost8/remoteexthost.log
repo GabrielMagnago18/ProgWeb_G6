@@ -1,0 +1,34 @@
+2023-11-15 16:42:53.997 [info] Extension host with pid 6125 started
+2023-11-15 16:42:54.051 [info] Lock '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/vscode.lock': Lock acquired.
+2023-11-15 16:42:55.608 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-11-15 16:42:55.610 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-11-15 16:42:55.615 [info] ExtensionService#_doActivateExtension small.php-ci, startup: false, activationEvent: 'onLanguage:php'
+2023-11-15 16:42:55.616 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-15 16:42:56.617 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-15 16:42:57.776 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-15 16:42:57.779 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-15 16:43:00.047 [info] Eager extensions activated
+2023-11-15 16:43:00.051 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-15 16:43:00.058 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-15 16:43:01.360 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1416
+2023-11-15 16:43:06.141 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1417
+2023-11-15 16:43:11.593 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1417
+2023-11-15 16:46:59.146 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1417
+2023-11-15 16:47:04.682 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:47:10.055 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:47:15.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:47:20.698 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:47:26.165 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:47:31.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:47:36.775 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:07.965 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:13.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:18.406 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:23.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:28.972 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:34.278 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:39.563 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:44.908 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:50.283 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:48:55.556 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414
+2023-11-15 16:49:01.090 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1414

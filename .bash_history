@@ -89,3 +89,9 @@ git push ProgWeb_G6 Vinicius
 git add .
 git commit -m "Página com Escolha de sala certo mas sem salvar alterações"
 git push ProgWeb_G6 Vinicius
+
+git add .
+git commit -m "Voltando pro commit anterior"
+git push ProgWeb_G6 Vinicius
+git push -f origin Vinicius
+git push -f ProgWeb_G6 Vinicius

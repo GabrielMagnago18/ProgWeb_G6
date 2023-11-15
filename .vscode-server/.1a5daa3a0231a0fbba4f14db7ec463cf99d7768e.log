@@ -5,38 +5,140 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:43723 (IPv4)
-Extension host agent listening on 43723
+Server bound to 127.0.0.1:35079 (IPv4)
+Extension host agent listening on 35079
 
-[19:15:18] 
-
-
+[13:08:59] 
 
 
-[19:15:18] Extension host agent started.
-[19:15:19] [127.0.0.1][e9470217][ManagementConnection] New connection established.
-[19:15:20] [127.0.0.1][2463266b][ExtensionHostConnection] New connection established.
-[19:15:20] [127.0.0.1][2463266b][ExtensionHostConnection] <9427> Launched Extension Host Process.
-[19:15:27] [127.0.0.1][e9470217][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[19:15:27] [127.0.0.1][2463266b][ExtensionHostConnection] <9427> Extension Host Process exited with code: 0, signal: null.
+
+
+[13:08:59] Extension host agent started.
+[13:08:59] Deleted uninstalled extension from disk bmewburn.vscode-intelephense-client /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.9.5
+[13:08:59] [127.0.0.1][d5985d7d][ManagementConnection] New connection established.
+[13:09:00] [127.0.0.1][ccdff64e][ExtensionHostConnection] New connection established.
+[13:09:00] [127.0.0.1][ccdff64e][ExtensionHostConnection] <18882> Launched Extension Host Process.
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
+    at L.updateIcon (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27526)
+    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
+    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
+    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
+    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
+    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
+    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[13:09:08] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
+    at L.updateIcon (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27526)
+    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
+    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
+    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
+    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
+    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
+    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
+stack trace: CodeExpectedError: Could not find pty on pty host
+    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
+    at L.updateTitle (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27475)
+    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
+    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
+    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
+    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
+    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
+    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[13:09:08] Error [CodeExpectedError]: Could not find pty on pty host
+    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
+    at L.updateTitle (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27475)
+    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
+    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
+    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
+    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
+    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
+    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[13:09:13] [127.0.0.1][d5985d7d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:09:13] [127.0.0.1][ccdff64e][ExtensionHostConnection] <18882> Extension Host Process exited with code: 0, signal: null.
 Cancelling previous shutdown timeout
-[19:15:27] Cancelling previous shutdown timeout
+[13:09:13] Cancelling previous shutdown timeout
 Last EH closed, waiting before shutting down
-[19:15:27] Last EH closed, waiting before shutting down
+[13:09:13] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[19:15:46] Got delay-shutdown request while in shutdown timeout, delaying
+[13:09:24] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[19:15:46] Cancelling previous shutdown timeout
-[19:15:47] [127.0.0.1][7b2b02ac][ManagementConnection] New connection established.
-[19:15:47] [127.0.0.1][9c0796bf][ExtensionHostConnection] New connection established.
-[19:15:47] [127.0.0.1][9c0796bf][ExtensionHostConnection] <9570> Launched Extension Host Process.
-[19:15:53] Getting Manifest... bmewburn.vscode-intelephense-client
-[19:15:53] Installing extension: bmewburn.vscode-intelephense-client
-[19:15:55] Extension signature verification failed with error 'ENOENT': bmewburn.vscode-intelephense-client
-[19:16:00] Extracted extension to file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1: bmewburn.vscode-intelephense-client
-[19:16:00] Renamed to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1
-[19:16:00] Extracting extension completed. bmewburn.vscode-intelephense-client
-[19:16:00] Extension installed successfully: bmewburn.vscode-intelephense-client
-[19:16:00] Marked extension as uninstalled bmewburn.vscode-intelephense-client-1.9.5
+[13:09:24] Cancelling previous shutdown timeout
+[13:09:25] [127.0.0.1][62ca25e4][ManagementConnection] New connection established.
+[13:09:25] [127.0.0.1][71893019][ExtensionHostConnection] New connection established.
+[13:09:25] [127.0.0.1][71893019][ExtensionHostConnection] <19163> Launched Extension Host Process.
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:12:30] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:12:30] Cancelling previous shutdown timeout
+[13:12:31] [127.0.0.1][a416ddee][ManagementConnection] New connection established.
+[13:12:31] [127.0.0.1][ce174a8a][ExtensionHostConnection] New connection established.
+[13:12:31] [127.0.0.1][ce174a8a][ExtensionHostConnection] <19500> Launched Extension Host Process.
+[13:12:39] [127.0.0.1][a416ddee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:12:39] [127.0.0.1][ce174a8a][ExtensionHostConnection] <19500> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:12:39] Cancelling previous shutdown timeout
+[13:13:11] [127.0.0.1][b9f030fd][ManagementConnection] New connection established.
+[13:13:12] [127.0.0.1][d75893e0][ExtensionHostConnection] New connection established.
+[13:13:12] [127.0.0.1][d75893e0][ExtensionHostConnection] <19649> Launched Extension Host Process.
+[13:13:19] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client' failed: No such file or directory (EUNKNOWN) (path: /var/www/clients/client2/web2/web/sistema/adsgrupo06)
+[13:13:19] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client' failed: No such file or directory
+[14:41:01] [127.0.0.1][b9f030fd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:41:02] [127.0.0.1][d75893e0][ExtensionHostConnection] <19649> Extension Host Process exited with code: 0, signal: null.
+[15:21:03] [127.0.0.1][62ca25e4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:21:04] [127.0.0.1][71893019][ExtensionHostConnection] <19163> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[15:21:04] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:25:52] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:25:52] Cancelling previous shutdown timeout
+[15:25:53] [127.0.0.1][cb193131][ManagementConnection] New connection established.
+[15:25:53] [127.0.0.1][995eb636][ExtensionHostConnection] New connection established.
+[15:25:53] [127.0.0.1][995eb636][ExtensionHostConnection] <30633> Launched Extension Host Process.
+[15:26:02] [127.0.0.1][cb193131][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:26:02] [127.0.0.1][995eb636][ExtensionHostConnection] <30633> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[15:26:02] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[15:26:02] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[15:26:08] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[15:26:08] Cancelling previous shutdown timeout
+[15:26:08] [127.0.0.1][ac68d198][ManagementConnection] New connection established.
+[15:26:09] [127.0.0.1][b48f4e6c][ExtensionHostConnection] New connection established.
+[15:26:09] [127.0.0.1][b48f4e6c][ExtensionHostConnection] <30775> Launched Extension Host Process.
 New EH opened, aborting shutdown
-[19:20:46] New EH opened, aborting shutdown
+[15:31:08] New EH opened, aborting shutdown
+[16:41:53] [127.0.0.1][156b607e][ManagementConnection] New connection established.
+[16:41:54] [127.0.0.1][c6a1ea13][ExtensionHostConnection] New connection established.
+[16:41:54] [127.0.0.1][c6a1ea13][ExtensionHostConnection] <5795> Launched Extension Host Process.
+[16:42:49] [127.0.0.1][8c624c07][ManagementConnection] New connection established.
+[16:42:49] [127.0.0.1][4ee69a33][ExtensionHostConnection] New connection established.
+[16:42:49] [127.0.0.1][4ee69a33][ExtensionHostConnection] <6125> Launched Extension Host Process.
+[16:44:27] [127.0.0.1][156b607e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:44:28] [127.0.0.1][c6a1ea13][ExtensionHostConnection] <5795> Extension Host Process exited with code: 0, signal: null.
+[16:46:55] [127.0.0.1][b48f4e6c][ExtensionHostConnection] <30775> Extension Host Process exited with code: 0, signal: null.
