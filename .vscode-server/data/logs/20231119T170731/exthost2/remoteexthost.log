@@ -1,0 +1,146 @@
+2023-11-19 17:19:35.478 [info] Extension host with pid 12616 started
+2023-11-19 17:19:35.491 [info] Lock '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/vscode.lock': Lock acquired.
+2023-11-19 17:19:36.115 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-11-19 17:19:36.117 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2023-11-19 17:19:36.120 [info] ExtensionService#_doActivateExtension small.php-ci, startup: false, activationEvent: 'onLanguage:php'
+2023-11-19 17:19:36.121 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-19 17:19:37.124 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-19 17:19:38.398 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-19 17:19:38.400 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-19 17:19:39.933 [info] Eager extensions activated
+2023-11-19 17:19:39.939 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-19 17:19:39.940 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-19 17:19:41.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2309
+2023-11-19 17:19:44.531 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2312
+2023-11-19 17:19:49.614 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2312
+2023-11-19 17:19:56.268 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2312
+2023-11-19 17:20:01.773 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2312
+2023-11-19 17:20:13.694 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2312
+2023-11-19 17:34:35.462 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:34:41.032 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2319
+2023-11-19 17:34:46.381 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2319
+2023-11-19 17:35:15.134 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:35:20.447 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:35:26.020 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:35:31.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:35:49.677 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:35:52.951 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-19 17:35:52.954 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-19 17:36:03.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2320
+2023-11-19 17:36:11.049 [info] Extension host terminating: received terminate message from renderer
+2023-11-19 17:36:11.052 [info] Lock '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-11-19 17:36:11.155 [error] An error occurred when deactivating the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2023-11-19 17:36:11.167 [error] TypeError: Cannot read private member #e from an object whose class did not declare it
+	at Object.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3645)
+	at o (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:16517)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19388)
+2023-11-19 17:36:11.170 [error] Canceled: Canceled
+	at new f (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at h.D [as value] (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1316925)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:16517)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19388) setContext undefined
+2023-11-19 17:36:11.230 [error] Canceled: Canceled
+	at new f (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:108614)
+	at n.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:10873)
+	at F.<computed>.z.charCodeAt.F.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:134:8315)
+	at i.g (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139130)
+	at i.executeCommand (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at $.registerCommand.description (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:137892)
+	at i.h (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:139669)
+	at i.g (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138661)
+	at i.executeCommand (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:125:138568)
+	at Object.executeCommand (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:21329)
+	at set b [as b] (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:714708)
+	at /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/github/dist/extension.js:2:715349
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1408111)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1332842)
+	at /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337795
+	at Array.forEach (<anonymous>)
+	at g.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1337781)
+	at w.<anonymous> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3572)
+	at w.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at w.<anonymous> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1318937)
+	at w.dispose (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:121:3669)
+	at o (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at h.cb (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:9843)
+	at /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7793
+	at Array.map (<anonymous>)
+	at h.Y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:7781)
+	at h.terminate (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:136:8051)
+	at o.terminate (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:153:7864)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at s.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:17112)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:16517)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at h.acceptChunk (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11821)
+	at h.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:96:11108)
+	at c.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at c.z (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/workbench/api/node/extensionHostProcess.js:150:19388) setContext undefined
+2023-11-19 17:36:11.243 [info] Extension host with pid 12616 exiting with code 0

@@ -1,0 +1,13 @@
+2023-11-20 11:22:58.825 [info] 
+
+
+
+
+2023-11-20 11:22:58.858 [info] Extension host agent started.
+2023-11-20 11:22:59.643 [info] [127.0.0.1][4486257f][ManagementConnection] New connection established.
+2023-11-20 11:22:59.990 [info] [127.0.0.1][bb6efc80][ExtensionHostConnection] New connection established.
+2023-11-20 11:23:00.505 [info] [127.0.0.1][bb6efc80][ExtensionHostConnection] <10601> Launched Extension Host Process.
+2023-11-20 11:27:58.885 [info] New EH opened, aborting shutdown
+2023-11-20 15:50:49.405 [info] [127.0.0.1][bb6efc80][ExtensionHostConnection] <10601> Extension Host Process exited with code: 0, signal: null.
+2023-11-20 15:50:49.440 [info] Last EH closed, waiting before shutting down
+2023-11-20 15:55:49.442 [info] Last EH closed, shutting down

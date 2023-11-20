@@ -89,3 +89,24 @@ git push ProgWeb_G6 Vinicius
 git add .
 git commit -m "Página com Escolha de sala certo mas sem salvar alterações"
 git push ProgWeb_G6 Vinicius
+git branch
+git checkout -b Lawfei
+git branch
+git add .
+git commit -m "Com mudanças feitas por Maria"
+git branch
+git push ProgWeb_G6 Lawfei
+git branch Vinicius
+git checkout Vinicius
+git status
+git checkout Vinicius
+git commit -m "Mensagem de commit"
+git checkout -- .vscode-server/data/logs/20231115T130859/exthost8/remoteexthost.log .vscode-server/data/logs/20231115T130859/exthost8/vscode.git/Git.log
+git checkout Vinicius
+git checkout Lawfei
+git add .
+git commit -m "Alterei uma view"
+git checkout Lawfei
+git checkout Vinicius
+composer dump-autoload
+php spark cache:clear

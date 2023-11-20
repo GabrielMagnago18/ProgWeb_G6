@@ -1,0 +1,23 @@
+[Info  - 6:15:07 PM] Initialising intelephense 1.10.1
+[Info  - 6:15:07 PM] Reading state from /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 6:15:07 PM] Initialised in 354 ms
+[Info  - 6:15:07 PM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 6:15:07 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 6:15:08 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06 for files to index.
+[Info  - 6:15:08 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2 for files to index.
+[Warn  - 6:15:09 PM] file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/ProgWeb_g6.erro/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 6:15:09 PM] Indexing started.
+[Info  - 6:15:30 PM] Indexing ended. 3070 files indexed in 21s.
+[Info  - 6:15:30 PM] Writing state to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 6:15:33 PM] Wrote state in 3.1s.
+[Info  - 6:21:02 PM] Indexing started.
+[Info  - 6:21:02 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 6:21:10 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/-2fb58065 for files to index.
+[Info  - 6:21:39 PM] Indexing started.
+[Info  - 6:21:40 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 6:21:46 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/-2a2d2636 for files to index.
+[Info  - 6:28:17 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/-50736159 for files to index.
+[Info  - 6:31:00 PM] Indexing started.
+[Info  - 6:31:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 6:31:40 PM] Indexing started.
+[Info  - 6:31:40 PM] Indexing ended. 1 files indexed in 0s.

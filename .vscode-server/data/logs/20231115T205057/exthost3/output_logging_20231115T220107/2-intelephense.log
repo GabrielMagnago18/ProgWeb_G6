@@ -1,0 +1,13 @@
+[Info  - 10:01:13 PM] Initialising intelephense 1.10.1
+[Info  - 10:01:13 PM] Reading state from /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 10:01:16 PM] Initialised in 3299 ms
+[Info  - 10:01:17 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 10:01:17 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06 for files to index.
+[Warn  - 10:01:19 PM] file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/ProgWeb_g6.erro/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 10:01:19 PM] Indexing started.
+[Info  - 10:01:19 PM] Indexing ended. 83 files indexed in 0s.
+[Info  - 10:01:19 PM] Writing state to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 10:01:21 PM] Wrote state in 2.6s.
+[Info  - 10:05:15 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/5602937 for files to index.
+[Info  - 10:06:31 PM] Indexing started.
+[Info  - 10:06:31 PM] Indexing ended. 1 files indexed in 0s.

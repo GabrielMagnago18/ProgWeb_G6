@@ -1,0 +1,42 @@
+2023-11-15 20:50:57.115 [info] 
+
+
+
+
+2023-11-15 20:50:57.141 [info] Extension host agent started.
+2023-11-15 20:50:57.775 [info] [127.0.0.1][c6686d94][ManagementConnection] New connection established.
+2023-11-15 20:50:58.156 [info] [127.0.0.1][42e68b5c][ExtensionHostConnection] New connection established.
+2023-11-15 20:50:58.514 [info] [127.0.0.1][42e68b5c][ExtensionHostConnection] <28562> Launched Extension Host Process.
+2023-11-15 20:55:57.197 [info] New EH opened, aborting shutdown
+2023-11-15 21:43:04.010 [info] [127.0.0.1][9f4020af][ManagementConnection] New connection established.
+2023-11-15 21:43:04.340 [info] [127.0.0.1][d0239435][ExtensionHostConnection] New connection established.
+2023-11-15 21:43:04.378 [info] [127.0.0.1][d0239435][ExtensionHostConnection] <1818> Launched Extension Host Process.
+2023-11-15 21:43:15.306 [error] CodeExpectedError: Could not find pty on pty host
+    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
+    at L.updateIcon (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27526)
+    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
+    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
+    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
+    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
+    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
+    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
+    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
+    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-11-15 21:50:36.141 [info] [127.0.0.1][9f4020af][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-15 21:50:37.794 [info] [127.0.0.1][d0239435][ExtensionHostConnection] <1818> Extension Host Process exited with code: 0, signal: null.
+2023-11-15 22:00:31.373 [info] [127.0.0.1][c6686d94][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-15 22:00:31.845 [info] [127.0.0.1][42e68b5c][ExtensionHostConnection] <28562> Extension Host Process exited with code: 0, signal: null.
+2023-11-15 22:00:31.845 [info] Last EH closed, waiting before shutting down
+2023-11-15 22:01:03.169 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-11-15 22:01:03.172 [info] Cancelling previous shutdown timeout
+2023-11-15 22:01:04.044 [info] [127.0.0.1][1e0e358f][ManagementConnection] New connection established.
+2023-11-15 22:01:04.554 [info] [127.0.0.1][f0217f42][ExtensionHostConnection] New connection established.
+2023-11-15 22:01:04.575 [info] [127.0.0.1][f0217f42][ExtensionHostConnection] <4947> Launched Extension Host Process.
+2023-11-15 22:06:03.232 [info] New EH opened, aborting shutdown
+2023-11-15 22:54:30.167 [info] [127.0.0.1][1e0e358f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-15 22:54:30.490 [info] [127.0.0.1][f0217f42][ExtensionHostConnection] <4947> Extension Host Process exited with code: 0, signal: null.
+2023-11-15 22:54:30.492 [info] Last EH closed, waiting before shutting down
+2023-11-15 22:59:30.493 [info] Last EH closed, shutting down

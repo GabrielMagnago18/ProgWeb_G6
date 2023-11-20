@@ -1,0 +1,54 @@
+[Info  - 1:41:39 PM] Initialising intelephense 1.10.1
+[Info  - 1:41:40 PM] Reading state from /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 1:41:42 PM] Initialised in 3206 ms
+[Info  - 1:41:42 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 1:41:42 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06 for files to index.
+[Warn  - 1:41:44 PM] file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/ProgWeb_g6.erro/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 1:41:44 PM] Indexing started.
+[Info  - 1:41:45 PM] Indexing ended. 65 files indexed in 0s.
+[Info  - 1:41:45 PM] Writing state to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 1:41:46 PM] Wrote state in 1.9s.
+[Info  - 1:56:25 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode for files to index.
+[Info  - 1:56:25 PM] Indexing started.
+[Info  - 1:56:27 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/bindings for files to index.
+[Info  - 1:56:27 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache for files to index.
+[Info  - 1:56:27 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/tools for files to index.
+[Info  - 1:56:27 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/bindings/tcpdf for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_0 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_1 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_2 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_3 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_4 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_5 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_6 for files to index.
+[Info  - 1:56:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Libraries/phpqrcode/cache/mask_7 for files to index.
+[Info  - 1:56:37 PM] Indexing ended. 55 files indexed in 12s.
+[Info  - 1:59:59 PM] Indexing started.
+[Info  - 2:00:00 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 2:00:08 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/-765aaf8f for files to index.
+[Info  - 3:57:40 PM] Indexing started.
+[Info  - 3:57:41 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 3:58:13 PM] Indexing started.
+[Info  - 3:58:13 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:01:13 PM] Indexing started.
+[Info  - 4:01:13 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:01:31 PM] Indexing started.
+[Info  - 4:01:31 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:03:29 PM] Indexing started.
+[Info  - 4:03:29 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:03:35 PM] Indexing started.
+[Info  - 4:03:35 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:03:44 PM] Indexing started.
+[Info  - 4:03:44 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:04:19 PM] Indexing started.
+[Info  - 4:04:19 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:05:18 PM] Indexing started.
+[Info  - 4:05:18 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:05:28 PM] Indexing started.
+[Info  - 4:05:29 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:06:13 PM] Indexing started.
+[Info  - 4:06:14 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:06:22 PM] Indexing started.
+[Info  - 4:06:22 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 4:09:45 PM] Indexing started.
+[Info  - 4:09:46 PM] Indexing ended. 1 files indexed in 0s.

@@ -1,0 +1,30 @@
+[Info  - 5:07:41 PM] Initialising intelephense 1.10.1
+[Info  - 5:07:42 PM] Reading state from /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 5:07:44 PM] Initialised in 3254 ms
+[Info  - 5:07:44 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 5:07:44 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06 for files to index.
+[Warn  - 5:07:47 PM] file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/ProgWeb_g6.erro/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 5:07:47 PM] Indexing started.
+[Info  - 5:07:49 PM] Indexing ended. 108 files indexed in 1s.
+[Info  - 5:07:49 PM] Writing state to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/9b3cef0c395bd085f4695430ae95afb4/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 5:07:51 PM] Wrote state in 2.7s.
+[Info  - 5:07:53 PM] Indexing started.
+[Info  - 5:07:53 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 5:14:08 PM] Indexing started.
+[Info  - 5:14:09 PM] Indexing ended. 2168 files indexed in 0s.
+[Info  - 5:19:36 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/logs/20231119T170731/exthost2 for files to index.
+[Info  - 5:19:40 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/logs/20231119T170731/exthost2/output_logging_20231119T171935 for files to index.
+[Info  - 5:19:41 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/logs/20231119T170731/exthost2/vscode.git for files to index.
+[Info  - 5:19:41 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/logs/20231119T170731/exthost2/vscode.github for files to index.
+[Info  - 5:20:21 PM] Indexing started.
+[Info  - 5:20:21 PM] Indexing ended. 1 files indexed in 0s.
+[Warn  - 5:36:11 PM] Error: ENOENT: no such file or directory, stat '/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/vscode.lock'
+[Info  - 5:42:03 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/3a453558 for files to index.
+[Info  - 5:50:06 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Services for files to index.
+[Info  - 5:50:16 PM] Indexing started.
+[Info  - 5:50:16 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 5:50:31 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/5e4e0dd0 for files to index.
+[Info  - 5:54:28 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/6f4737f for files to index.
+[Info  - 5:55:26 PM] Indexing started.
+[Info  - 5:55:26 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 5:55:34 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/7c1301d4 for files to index.

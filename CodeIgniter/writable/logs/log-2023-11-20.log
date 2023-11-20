@@ -1,0 +1,92 @@
+CRITICAL - 2023-11-20 05:30:44 --> Undefined variable: sala
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_del.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 18, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_del', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(77): view('salas_del', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->deletar('1')
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 05:35:29 --> Undefined index: id
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_exibir.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/client...', 96, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_exibir', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/SalasExibir.php(10): view('salas_exibir', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\SalasExibir->index()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalasExibir))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 05:37:04 --> Undefined index: id
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_exibir.php(96): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', '/var/www/client...', 96, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_exibir', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/SalasExibir.php(10): view('salas_exibir', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\SalasExibir->index()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalasExibir))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 05:43:03 --> Undefined variable: sala
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_del.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 18, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_del', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(81): view('salas_del', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->deletar('3')
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 05:44:16 --> Undefined variable: sala
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_del.php(18): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 18, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_del', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(81): view('salas_del', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->deletar('4')
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 06:10:57 --> Too few arguments to function App\Controllers\Salas::deletar(), 0 passed in /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->deletar()
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-11-20 06:16:42 --> Undefined variable: titulo
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 8, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_form', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(10): view('salas_form', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->index()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 06:22:35 --> Undefined variable: titulo
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Views/salas_form.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/var/www/client...', 8, Array)
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(210): include('/var/www/client...')
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salas_form', Array, true)
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/Salas.php(10): view('salas_form', Array)
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\Salas->index()
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Salas))
+#7 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-20 11:13:55 --> syntax error, unexpected 'class' (T_CLASS), expecting '('
+#0 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/Common.php(1089): CodeIgniter\View\View->render('salasdel', Array, true)
+#2 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/app/Controllers/SalasDeletar.php(10): view('salasdel', Array)
+#3 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(832): App\Controllers\SalasDeletar->index()
+#4 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalasDeletar))
+#5 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/clients/client2/web2/web/sistema/adsgrupo06/CodeIgniter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
