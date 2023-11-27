@@ -1,0 +1,20 @@
+[Info  - 11:42:35 AM] Initialising intelephense 1.10.1
+[Info  - 11:42:35 AM] Initialised in 182 ms
+[Info  - 11:42:35 AM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 11:42:35 AM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.10.1/node_modules/intelephense/lib/stub for files to index.
+[Info  - 11:42:36 AM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06 for files to index.
+[Info  - 11:42:36 AM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 11:42:36 AM] Indexing started.
+[Info  - 11:42:47 AM] Indexing ended. 1215 files indexed in 10s.
+[Info  - 11:42:47 AM] Writing state to /var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/workspaceStorage/63b1dc912db3465c09ba8bb5b14e2e86/bmewburn.vscode-intelephense-client/2c48acd2.
+[Info  - 11:42:48 AM] Wrote state in 0.9s.
+[Info  - 11:45:23 AM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/16675f3d for files to index.
+[Info  - 11:58:13 AM] Indexing started.
+[Info  - 11:58:13 AM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:13:17 PM] Searching file:///var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/data/User/History/214762a0 for files to index.
+[Info  - 12:15:46 PM] Indexing started.
+[Info  - 12:15:46 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:26:26 PM] Indexing started.
+[Info  - 12:26:26 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 12:27:00 PM] Indexing started.
+[Info  - 12:27:00 PM] Indexing ended. 1 files indexed in 0s.

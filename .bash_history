@@ -110,3 +110,19 @@ git checkout Lawfei
 git checkout Vinicius
 composer dump-autoload
 php spark cache:clear
+git branch
+git add .
+git commit "Alte -mrações finais"
+git commit "mudancas finais"
+git commit -m "criando deletr"
+git push ProgWeb_G6 Vinicius
+git checkout main
+git checkout 
+git branch
+git fetch --all
+git branch main
+git checkout main
+git add .
+git commit -m "Adicionando a main "
+git push ProgWeb_G6 main
+git push -f ProgWeb_G6 main

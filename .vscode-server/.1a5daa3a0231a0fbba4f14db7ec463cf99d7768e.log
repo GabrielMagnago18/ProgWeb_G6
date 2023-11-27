@@ -5,46 +5,17 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:35113 (IPv4)
-Extension host agent listening on 35113
+Server bound to 127.0.0.1:45685 (IPv4)
+Extension host agent listening on 45685
 
-[18:57:33] 
-
-
+[18:42:00] 
 
 
-[18:57:33] Extension host agent started.
-[18:57:35] [127.0.0.1][f1102c0e][ManagementConnection] New connection established.
-[18:57:35] [127.0.0.1][75ec3e68][ExtensionHostConnection] New connection established.
-[18:57:35] [127.0.0.1][75ec3e68][ExtensionHostConnection] <20863> Launched Extension Host Process.
-rejected promise not handled within 1 second: CodeExpectedError: Could not find pty on pty host
-stack trace: CodeExpectedError: Could not find pty on pty host
-    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
-    at L.updateTitle (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27475)
-    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
-    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
-    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
-    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
-    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
-    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
-    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
-    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
-    at process.emit (node:events:513:28)
-    at emit (node:internal/child_process:937:14)
-    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
-[18:57:46] Error [CodeExpectedError]: Could not find pty on pty host
-    at L.U (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:32314)
-    at L.updateTitle (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:27475)
-    at W.<computed> (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:43:22722)
-    at Object.call (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:34:5005)
-    at c.s (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:5118)
-    at c.q (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4641)
-    at g.value (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:32:4052)
-    at r.y (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:1902)
-    at r.fire (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:27:2119)
-    at process.le (/var/www/clients/client2/web2/web/sistema/adsgrupo06/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/platform/terminal/node/ptyHostMain.js:25:9948)
-    at process.emit (node:events:513:28)
-    at emit (node:internal/child_process:937:14)
-    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+
+[18:42:00] Extension host agent started.
+[18:42:01] [127.0.0.1][ca3a866f][ManagementConnection] New connection established.
+[18:42:02] [127.0.0.1][48cec582][ExtensionHostConnection] New connection established.
+[18:42:02] [127.0.0.1][48cec582][ExtensionHostConnection] <8929> Launched Extension Host Process.
 New EH opened, aborting shutdown
-[19:02:34] New EH opened, aborting shutdown
+[18:47:00] New EH opened, aborting shutdown
