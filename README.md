@@ -114,7 +114,26 @@ Procedimentos de rotina são definidos para garantir a estabilidade e segurança
 ### 8.2 Atualizações Futuras
 Futuras atualizações podem incluir melhorias de usabilidade, novas funcionalidades e correções de segurança.
 
-## 9. Conclusão
+## 9. Anexos
+### 9.1 Capturas de tela
+- Desktop
+![Home](/grupo/assets/HOME.png)
+![footer](/grupo/assets/FOOTER.png)
+![del](/grupo/assets/deletaar.png)
+![inset](/grupo/assets/INSERIR.png)
+![viewUnic](/grupo/assets/vISUALIZAR%20UNICO.png)
+![view](/grupo/assets/uNICA%20vIEW.png)
+- Mobile
+![view](/grupo/assets/IMG-20231127-WA0015.jpg)
+![view](/grupo/assets/IMG-20231127-WA0016.jpg)
+![view](/grupo/assets/IMG-20231127-WA0017.jpg)
+![view](/grupo/assets/IMG-20231127-WA0019.jpg)
+![view](/grupo/assets/IMG-20231127-WA0020.jpg)
+
+### 9.2 Fluxograma
+![fluxograma](/grupo/assets/Fluxograma-ProgWebG6.png)
+
+## 10. Conclusão
 Em conclusão, o sistema desenvolvido para a Univiçosa apresenta uma abordagem
 moderna e eficiente para a gestão das salas. A integração de códigos QR e o painel
 administrativo oferecem uma solução acessível e intuitiva, promovendo a agilidade
